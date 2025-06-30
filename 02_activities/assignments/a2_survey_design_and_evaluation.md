@@ -40,25 +40,25 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: #1
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+The purpose of the survey is to determine what factors are driving high turnover in entry and lower level positions within the tech company. Specifically, the survey aims to identify discrepancies between what employees deem valuable aspects of their employment and what they perceive the company do be doing well/not well.
+
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+Target population: X Company employees.
+Sampling frame: Employees's emails + phone extensions.
+Sampling unit: Department and role type (e.g. entry, mid-level, management, senior leadership).
+Observations unit: Employee.
+Sampling strategy: Quota sampling to ensure there is representation from all departments and different levels within the organization. Also it might be more economical than probability sampling.
 
 Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
+1. On a scale of 1 (Strongly Disagree) to 5 (Strongly Agree), how satisfied are you in your current position?
+2. Rank the following factors that are important to you while working at X Company from 1 (Most Important) to 10 (Least Important): Social impact, corporate impact, annual bonuses, opportunity for professional growth, employee education fund, annual compensation, work environment, work-life balance, recognition from leadership, sense of purpose.
+3. What is one additional factor that is important to you as an employee at X company? (expect a <20 character string)
+4. Rank the following from 1 (Does the best) to 11 (Most room for improvement): Social impact, corporate impact, annual bonuses, opportunity for professional growth, employee education fund, compensation, work environment, work-life balance, recognition from leadership, sense of purpose, input from question 3.
+5. On a scale of 1 (Strong Disagree) to 5 (Strongly Agree), how likely are you to recommend X Company to a friend?
 6. write your question here... (optional)
 7. write your question here... (optional)
 8. write your question here... (optional)
@@ -69,10 +69,20 @@ Your 5-10 question survey:
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
+1. Sample type: Stratification and simple random sample from each stratum.
+2. Sample size: Target 20,000; Actual 16,149.
+3. Target population: All persons 15 years of age and older in Canada, excluding residents of the Yukon, Northwest Territories, and Nunavut, full-time residents of institutions, and residents of First Nations reserves
+4. Sampling frame: Telephone numbers + address registry.
+5. Survey mode(s): Self-completed online questionnaires and computer-assisted telephone interviews.
+6. Timeline: September to December 2018.
+7. Response rate: 41.9%
+8. Weights: Household, Three-stage non-response, person, stratum, income, province, volunteer status.
+9. Data processing: Coding: write-in responses were coded into existing categories, grouped into new categories, or left in other-specify
+10. Cleaning, imputation, etc: 9-step top-down imputation strategy was used for records with incorrect/missing info.
+11. Sources of error: Non-sampling: Interviewers may misunderstand instructions, respondents may make errors in answering questions, the answers may be incorrectly entered into the EQ system, and errors may be introduced in the processing and tabulation of the data.
+12. Limitations, known biases, etc: Not much provided, though did state that systematic errors will contribute to biases in survey estimates.Mentioned that considerable efforts were made to reduce non-sampling errors, using QA at each step of the data collection and processing cycle to monitor data quality.
+13. Link to documentation and any additional sources used: https://www150.statcan.gc.ca/n1/en/catalogue/45250011
 
-```
-write your answer here
-```
 
 ## Rubric
 
